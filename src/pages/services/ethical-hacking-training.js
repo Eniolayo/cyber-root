@@ -21,7 +21,7 @@ function EthicalHackingTraining() {
         <Heading styles={"capitalize font-black"} level={"h3"} variant={"lg"}>
           Ethical Hacking Training
         </Heading>
-        <Text variant={"m"} styles={"max-w-[780px] w-[90%] mx-auto"}>
+        <Text variant={"m"} styles={"text-justify w-[90%] mx-auto"}>
           Equip yourself with the skills and knowledge to protect digital
           environments through our comprehensive Ethical Hacking Training. Led
           by industry experts, our practical programs cover penetration testing,

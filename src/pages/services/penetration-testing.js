@@ -21,7 +21,7 @@ export default function PenetrationTesting() {
         <Heading styles={"capitalize font-black"} level={"h3"} variant={"lg"}>
           Penetration Testing
         </Heading>
-        <Text variant={"m"} styles={"max-w-[780px] w-[90%] mx-auto"}>
+        <Text variant={"m"} styles={"text-justify w-[90%] mx-auto"}>
           At CyberRoot Ltd, we specialize in providing comprehensive penetration
           testing services to organizations seeking to enhance their
           cybersecurity defenses. Penetration testing, also known as pen testing

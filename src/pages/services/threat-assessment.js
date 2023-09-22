@@ -21,7 +21,7 @@ export default function ThreatAssessment() {
         <Heading styles={"capitalize font-black"} level={"h3"} variant={"lg"}>
           Threat assessments
         </Heading>
-        <Text variant={"m"} styles={"max-w-[780px] w-[90%] mx-auto"}>
+        <Text variant={"m"} styles={"text-justify w-[90%] mx-auto"}>
           In the ever-evolving landscape of cybersecurity, organizations must
           stay proactive in identifying and addressing potential threats. At
           CyberRoot Ltd, we specialize in conducting comprehensive threat
@@ -32,7 +32,7 @@ export default function ThreatAssessment() {
           informed decisions and implement targeted security measures to protect
           your organization's critical systems, data, and reputation.
         </Text>
-        <Text variant={"m"} styles={"max-w-[780px] w-[90%] mx-auto"}>
+        <Text variant={"m"} styles={"text-justify w-[90%] mx-auto"}>
           By partnering with CyberRoot Ltd for threat assessments, you gain the
           advantage of our expertise in identifying emerging threats and
           understanding the tactics used by cybercriminals. We go beyond mere
